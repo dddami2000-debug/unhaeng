@@ -1,5 +1,5 @@
 // 운행일지 오프라인 캐시. 앱 파일을 고치면 VERSION 숫자를 올려주세요.
-const VERSION = "unhaeng-v2";
+const VERSION = "unhaeng-v3";
 const FILES = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./icon-maskable-512.png", "./apple-touch-icon.png"];
 
 self.addEventListener("install", e => {
