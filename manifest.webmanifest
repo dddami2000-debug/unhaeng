@@ -1,0 +1,17 @@
+{
+  "name": "저온 수송 운행일지",
+  "short_name": "운행일지",
+  "description": "상차지·하차지·톤수를 고르면 단가가 자동으로 들어가는 운행일지",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EDF2F4",
+  "theme_color": "#15222E",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
